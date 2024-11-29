@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sprint2hw1/static/css/main.b14430cc.css",
+    "main.js": "/sprint2hw1/static/js/main.745931d7.js",
+    "static/js/787.66cb4309.chunk.js": "/sprint2hw1/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/sprint2hw1/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/sprint2hw1/index.html",
+    "main.b14430cc.css.map": "/sprint2hw1/static/css/main.b14430cc.css.map",
+    "main.745931d7.js.map": "/sprint2hw1/static/js/main.745931d7.js.map",
+    "787.66cb4309.chunk.js.map": "/sprint2hw1/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b14430cc.css",
+    "static/js/main.745931d7.js"
+  ]
+}
